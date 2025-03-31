@@ -1,1 +1,1 @@
-# JavaLeetCode
+This is the Java version of 200 LeetCode problems categorized into fundamental algorithms by HoangCaoBao. You can view the original at [https://github.com/hoangcaobao/LeetCode](https://github.com/hoangcaobao/LeetCode).
